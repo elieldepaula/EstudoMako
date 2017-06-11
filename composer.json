@@ -1,0 +1,21 @@
+{
+    "name": "elieldepaula/estudomako",
+    "description": "Um projeto para o estudo de pacotes do framework Mako.",
+    "type": "library",
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eliel de Paula",
+            "email": "elieldepaula@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "elieldepaula\\estudomako\\": "src"
+        }
+    }
+}
